@@ -12,4 +12,6 @@ div {
   background-color: brown;
   text-align: center;
   margin: 100px auto;
+  font-size: 22px;
+  font-weight: bold;
 }
